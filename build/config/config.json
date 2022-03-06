@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9b4897CF0F06E14C76e1e47Ca2eCC5B6C55546Ee",
+  "SCAN_LINK": "https://polygonscan.com/address/0x9b4897CF0F06E14C76e1e47Ca2eCC5B6C55546Ee",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Tree Society",
+  "SYMBOL": "TS",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/tree-society",
+  "SHOW_BACKGROUND": false
+}
